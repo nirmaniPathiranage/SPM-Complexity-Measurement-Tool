@@ -497,7 +497,7 @@ public class FilesDemo extends javax.swing.JFrame {
                     Matcher mSwitch = pSwitch.matcher(getSwitch);
 
                     while (mSwitch.find()) {
-                        ++count; //increment count
+                        ++count; //increment count one by one
                     }
 
                 }
